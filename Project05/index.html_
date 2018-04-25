@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=UTF-8">
+<title> Wecome to night city resturant</title>
+<style typ="text/css">
+body
+	padding: 0;
+	margin: 0 auto;
+	}
+	wrapper {
+	margin: 0 auto;
+	width: 1024px;
+	display: block;
+	height: 768px
+	background-image: url (project1%20copy/images night_city_backgrounc.jpg):
+background-position: 0% -100px;
+}
+header, footer{
+	background-color: #000000
+	height: 100px;
+	color:	#FFFFFF
+	clear: both;
+	}
+	margin {
+
+	}
+	main section {
+	
